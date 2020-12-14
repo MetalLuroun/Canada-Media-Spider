@@ -1,0 +1,95 @@
+
+积极情感有 : 316篇
+消极情感有 : 12篇
+中立情感有 : 744篇
+
+
+
+发布趋势
+[45, 95, 47, 28, 35, 61, 40, 44, 51, 57, 83, 88]
+
+主题分析：
+January   :   
+Topic #0:
+said china health people canada chinese coronavirus wuhan outbreak year
+
+--------------------
+ Fabruary   :   
+Topic #0:
+said china health people coronavirus cases virus canada outbreak chinese
+
+--------------------
+Match   :   
+Topic #0:
+said people health china virus coronavirus 19 cases covid outbreak
+
+--------------------
+April   :   
+Topic #0:
+said canada china world covid 19 work text coronavirus
+
+--------------------
+May   :   
+Topic #0:
+said china people
+
+--------------------
+June   :   
+Topic #0:
+said china government says national state just time 2018 public
+
+--------------------
+July   :   
+Topic #0:
+said chinese canada government new kong hong united states time
+
+--------------------
+Augest   :   
+Topic #0:
+said china canada people text time government statement early
+
+--------------------
+September   :   
+Topic #0:
+said china covid 19 people new canada pandemic country government
+
+--------------------
+Octorber   :   
+Topic #0:
+said china canada government chinese new like says time minister
+
+--------------------
+Novermber   :   
+Topic #0:
+said china people world government new years time year president
+
+--------------------
+December   :   
+Topic #0:
+said china people just new
+
+--------------------
+
+ALL:   
+Topic #0:
+said china cent just people world says time pandemic year
+Topic #1:
+media people killed state said post building operation posted hundreds
+Topic #2:
+said care health supplies masks medical canada chinese china workers
+Topic #3:
+china meng canada canadian hong kong huawei chinese government said
+Topic #4:
+canada barton china supplies medical said april href help women
+Topic #5:
+taiwan china beijing chinese said general island united ministry states
+Topic #6:
+china said barton canada food canadian government people ref_src business
+Topic #7:
+said trump china https chinese href twitter com president ref_src
+Topic #8:
+iran countries world agreement canada deal united international nations said
+Topic #9:
+said health people china coronavirus cases virus covid 19 outbreak
+
+--------------------

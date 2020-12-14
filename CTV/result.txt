@@ -1,0 +1,347 @@
+中立情感有 : 1120篇
+消极情感有 : 10篇
+积极情感有 : 305篇
+
+January   :   
+Topic #0:
+canada canadian year world time britain 2020 just cent years
+Topic #1:
+officials cases canada confirmed public toronto wuhan case canadians canadian
+Topic #2:
+claims misinformation products hand prevention information fact false agency media
+Topic #3:
+edmonton alberta association plan protect area line develop significant like
+Topic #4:
+outbreak leave wuhan symptoms world chinese covering countries days company
+Topic #5:
+new wuhan chinese outbreak year cases city spread government travel
+Topic #6:
+wuhan says chinese toronto new canada outbreak cases travel country
+Topic #7:
+flights travel air canada airline airlines trip shanghai cancel beijing
+Topic #8:
+montreal quebec jobs friday company family city say near announced
+Topic #9:
+trump president security american white donald thursday national officials public
+
+--------------------
+ Fabruary   :   
+Topic #0:
+company employee employees work trip workers home office sick concerns
+Topic #1:
+cent billion year company million quarter cents canadian markets sales
+Topic #2:
+passengers ship canadian canadians quarantine cruise canada government wuhan plane
+Topic #3:
+trump iran government president chinese state li country media party
+Topic #4:
+chinese outbreak year south travel hong kong world korea city
+Topic #5:
+cases confirmed officials tested 19 covid province wuhan hospital outbreak
+Topic #6:
+market economic markets economy growth fell lower global prices oil
+Topic #7:
+world day like says canada time make going just don
+Topic #8:
+nan alberta calgary business edmonton restaurant businesses customers help community
+Topic #9:
+masks air canada montreal report 000 face toronto says vancouver
+
+--------------------
+Match   :   
+Topic #0:
+canada says public travel government dr risk need time home
+Topic #1:
+province announced deaths reported officials case added death total additional
+Topic #2:
+march cancelled postponed april suspended tokyo closed events games olympics
+Topic #3:
+ship cruise league team passengers illness princess recover 000 fans
+Topic #4:
+provincial day including country city province italy closed days infections
+Topic #5:
+iran italy reported country state 000 home confirmed man deaths
+Topic #6:
+italy country number pandemic public work deaths government canada data
+Topic #7:
+women russia winnipeg situation pandemic says city budget support europe
+Topic #8:
+government city country women pandemic canada state officials public says
+Topic #9:
+year trump economy global government chinese million 000 market economic
+
+--------------------
+April   :   
+Topic #0:
+masks canada cases care public patients says medical time canadian
+Topic #1:
+taiwan intelligence security lab council wuhan general outbreak live concerns
+Topic #2:
+countries africa nations global african million aid medical help continent
+Topic #3:
+vaccine hong kong humans study human phase release according researchers
+Topic #4:
+north south korea korean million year police company billion reported
+Topic #5:
+women climate league team sports season year toronto impact change
+Topic #6:
+olympics tokyo small japan customers vaccine chain orders months think
+Topic #7:
+workers trump masks countries chinese country outbreak state tuesday canada
+Topic #8:
+korea south north korean party media public leadership leader conservative
+Topic #9:
+trump 000 year deaths country cases million reported outbreak president
+
+--------------------
+May   :   
+Topic #0:
+cent year economic oil sales contract prices points quarter market
+Topic #1:
+covid trump racism cent canada vancouver cases says canadian july
+Topic #2:
+hong kong country tourism year economy countries coronavirus trump time
+Topic #3:
+asian calgary police giant ctv city group home news online
+Topic #4:
+officials masks use government korea face north covid united hong
+Topic #5:
+virus covid study vaccine patients coronavirus dr disease researchers infected
+Topic #6:
+canada canadian meng chinese huawei trudeau canadians international taiwan minister
+Topic #7:
+covid canada health testing says public time tests space masks
+Topic #8:
+kong hong chinese beijing security trump national government year law
+Topic #9:
+coronavirus health trump world virus 000 cases country million government
+
+--------------------
+June   :   
+Topic #0:
+north korea kim south korean nuclear children new president united
+Topic #1:
+trump canada minister trudeau bolton meng government canadians chinese prime
+Topic #2:
+cases virus new people 000 health coronavirus million reported world
+Topic #3:
+hong kong law national government beijing security chinese people foreign
+Topic #4:
+police floyd plan stock attack energy exchange production bank biden
+Topic #5:
+chinese indian india soldiers control border officials foreign valley region
+Topic #6:
+patients study virus people asymptomatic covid 19 new researchers cases
+Topic #7:
+people covid 19 canada pandemic like time says care just
+Topic #8:
+vaccine vaccines researchers 19 coronavirus covid study trials government human
+Topic #9:
+nan time canada minister cases meng new 000 chinese extradition
+
+--------------------
+July   :   
+Topic #0:
+cases 000 reported million infections deaths according south weeks country
+Topic #1:
+cent company million canadian quebec report billion year quarter 19
+Topic #2:
+india border indian military soldiers countries region ministry ladakh troops
+Topic #3:
+people virus covid health 19 pandemic vaccine coronavirus canada world
+Topic #4:
+huawei meng canada canadian hsbc documents government trudeau say arrest
+Topic #5:
+trump consulate administration houston washington state beijing foreign police officials
+Topic #6:
+residents year people homes coronavirus countries health city 19 world
+Topic #7:
+nan president taiwan political party election island democratic japan leader
+Topic #8:
+hong kong law security national police government people beijing city
+Topic #9:
+tiktok data app mars security government company launch users space
+
+--------------------
+Augest   :   
+Topic #0:
+black time just going like says school years world think
+Topic #1:
+huawei company technology companies security sales washington american chips using
+Topic #2:
+vaccine canada health covid 19 million trials vaccines world pandemic
+Topic #3:
+hong kong police law democracy security lai city national protests
+Topic #4:
+passengers mask flight south travel covid says 19 researchers face
+Topic #5:
+trump president biden iran nuclear administration facts russia election security
+Topic #6:
+coronavirus virus cases health covid 19 food reported according 000
+Topic #7:
+india taiwan beijing military indian ministry foreign region international washington
+Topic #8:
+number beijing phone considered sought similar million online sunday record
+Topic #9:
+tiktok trump canada canadian company app states united trade meng
+
+--------------------
+September   :   
+Topic #0:
+north korea south japan ship korean taiwan 000 star coast
+Topic #1:
+tiktok app users trump government wechat oracle security company deal
+Topic #2:
+world xinjiang like minister says government prime human rights film
+Topic #3:
+cent canada canadian market billion company sales report pandemic technology
+Topic #4:
+infected spread virus rights council health human coronavirus like covid
+Topic #5:
+trump biden president election administration intelligence campaign officials state facts
+Topic #6:
+vaccine health covid 19 virus coronavirus pandemic 000 world cases
+Topic #7:
+military hong border india kong countries foreign beijing government world
+Topic #8:
+species report researchers world future years giant say increased past
+Topic #9:
+tiktok 000 app cases months ban wechat infections users government
+
+--------------------
+Octorber   :   
+Topic #0:
+government election opposition country president parliament committee vote political state
+Topic #1:
+canada canadian meng arrest kovrig spavor canadians extradition michael minister
+Topic #2:
+huawei beijing military taiwan technology company 5g defence statement party
+Topic #3:
+india indian border monday wang military june government region province
+Topic #4:
+trump biden president states people united nuclear election debate administration
+Topic #5:
+fishing japan south sea korean waters korea ships vietnam north
+Topic #6:
+trump billion pandemic hong biden beijing cases technology health million
+Topic #7:
+million people vaccine cases health pandemic coronavirus virus 19 covid
+Topic #8:
+hong kong law report government police company national information group
+Topic #9:
+like time world people human rights just cent women pandemic
+
+--------------------
+Novermber   :   
+Topic #0:
+trump biden president election administration trade donald american states joe
+Topic #1:
+beijing government security tiktok companies korea military war south media
+Topic #2:
+vaccine hong government kong new health covid 19 pandemic million
+Topic #3:
+government trump philippines areas power health meng told canada president
+Topic #4:
+pandemic million new billion government weekend sales com 19 opening
+Topic #5:
+meng rcmp arrest huawei did asked court told wanzhou meeting
+Topic #6:
+intelligence nan report threats security cyber critical national canadian information
+Topic #7:
+trade countries space moon economic mission asia new free japan
+Topic #8:
+japan tokyo japanese pandemic visit billion minister meet foreign week
+Topic #9:
+canada canadian sport team quebec press calgary michael ambassador time
+
+--------------------
+December   :   
+Topic #0:
+technology companies money taken american state world security testing 000
+Topic #1:
+vaccine people vaccines health million pandemic virus covid pfizer 19
+Topic #2:
+space years samples earth report news beijing according make national
+Topic #3:
+biden president trump kovrig canada meng government spavor canadian beijing
+Topic #4:
+nan list human largest europe european group including land activity
+Topic #5:
+hong kong officials restrictions party washington health members political beijing
+Topic #6:
+money according authorities case bank comment states court based trial
+Topic #7:
+australian australia new year government earlier economy billion report exports
+Topic #8:
+university news communist national beijing ordered trip ruling team media
+Topic #9:
+space samples earth beijing probe program agency time mission return
+
+--------------------
+
+
+
+
+Total  :   
+Topic #0:
+iran trump united trade president nuclear washington states pompeo administration
+Topic #1:
+covid 19 canada pandemic says cent care health data study
+Topic #2:
+year economy billion economic market industry global sales trade business
+Topic #3:
+world countries global pandemic united european nations states international france
+Topic #4:
+minister australia prime australian government foreign ministry zhao pandemic country
+Topic #5:
+eu africa leaders trump climate forces cent week states debate
+Topic #6:
+hong kong law beijing national taiwan security government chinese democracy
+Topic #7:
+cent company year million billion quarter april market oil markets
+Topic #8:
+vaccine chinese vaccines news use countries national eu end leaders
+Topic #9:
+korea south north city wuhan korean kim seoul chinese province
+Topic #10:
+kovrig vaccine spavor michael chinese canadian year world says pandemic
+Topic #11:
+cases province 19 covid announced deaths reported recoveries health officials
+Topic #12:
+health virus coronavirus cases outbreak public spread symptoms masks officials
+Topic #13:
+trump president biden administration white house donald election campaign facts
+Topic #14:
+hong vaccine vaccines year money virus kong months chinese disease
+Topic #15:
+canada canadian canadians meng government trudeau minister ottawa chinese kovrig
+Topic #16:
+india indian chinese border military soldiers countries ministry troops region
+Topic #17:
+japan ship passengers tokyo flight cruise flights olympics japanese space
+Topic #18:
+russia council security russian military government defence country including members
+Topic #19:
+testing test tests shanghai capacity limited million result jan commission
+Topic #20:
+police year according years city man court animals 2019 wuhan
+Topic #21:
+like just time going says don think home make really
+Topic #22:
+vaccine vaccines health covid 19 trials coronavirus research virus drug
+Topic #23:
+travel march cancelled calgary canada alberta international visitors closed trip
+Topic #24:
+tiktok company chinese huawei app security companies technology government users
+Topic #25:
+cases virus 000 coronavirus deaths health country reported infections number
+Topic #26:
+board special stop limit large gatherings small family covid space
+Topic #27:
+chinese media government state beijing report officials xinjiang students news
+Topic #28:
+party president election black political leader vote speech state support
+Topic #29:
+team 2020 world national 29 28 report highest 13 major
+
+--------------------

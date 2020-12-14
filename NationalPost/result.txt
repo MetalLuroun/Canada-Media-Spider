@@ -1,0 +1,346 @@
+中立情感有 : 10965篇
+消极情感有 : 567篇
+积极情感有 : 4486篇
+
+[1861, 2442, 2013, 1470, 1237, 1294, 1302, 870, 1040, 928, 757, 837]
+
+January   :   
+Topic #0:
+hong kong beijing government office taiwan year protests city mainland
+Topic #1:
+united states washington trade trump deal president foreign iran state
+Topic #2:
+year open round slam melbourne day australian meng grand seed
+Topic #3:
+taiwan minister island prime ban government air people force taipei
+Topic #4:
+flights south reporting editing korea wuhan thursday virus outbreak seoul
+Topic #5:
+taiwan wuhan virus person people city new year confirmed sydney
+Topic #6:
+beijing indonesia report rights natuna waters government economic human islands
+Topic #7:
+health new global world outbreak travel virus wuhan spread emergency
+Topic #8:
+health people wuhan virus cases new case confirmed canada outbreak
+Topic #9:
+wuhan city new outbreak people virus beijing year hubei cases
+
+--------------------
+ Fabruary   :   
+Topic #0:
+passengers ship quarantine cruise japan people virus health air chinese
+Topic #1:
+minister foreign new feb day beijing prime economic visit president
+Topic #2:
+health virus world taiwan outbreak disease spread organization cases countries
+Topic #3:
+people chinese wuhan italy outbreak government city virus hospital old
+Topic #4:
+south korea iran ministry people singapore reported virus cases state
+Topic #5:
+outbreak year economy epidemic new chinese impact work xi world
+Topic #6:
+canadian canada canadians wuhan flight plane government outbreak ontario federal
+Topic #7:
+chinese beijing country flights government reporting outbreak united editing states
+Topic #8:
+cases new health confirmed deaths reported outbreak number total province
+Topic #9:
+trump president year chinese united world states washington trade outbreak
+
+--------------------
+Match   :   
+Topic #0:
+north kong hong korea people quarantine flights hotel chinese south
+Topic #1:
+chinese wuhan beijing department outbreak world washington state ministry security
+Topic #2:
+italy people government medical masks 000 country lockdown health minister
+Topic #3:
+tokyo games japan scheduled olympic minister india day team ahead
+Topic #4:
+19 covid health people virus disease canada cases outbreak world
+Topic #5:
+cases new reported health infections number confirmed virus day beijing
+Topic #6:
+chinese beijing journalists state reporting washington foreign pompeo media secretary
+Topic #7:
+president trump states taiwan outbreak united washington world virus government
+Topic #8:
+south korea iran cases countries country outbreak new people virus
+Topic #9:
+world europe 000 united countries africa march european virus spread
+
+--------------------
+April   :   
+Topic #0:
+cases new reported day number infections chinese confirmed health russia
+Topic #1:
+beijing ministry foreign african editing city spokesman reporting young writing
+Topic #2:
+world countries pandemic people government 000 global year lockdown million
+Topic #3:
+trump president election party biden campaign leadership wuhan pandemic new
+Topic #4:
+canada covid 19 health minister canadian trudeau ventilators government care
+Topic #5:
+hong kong united states outbreak beijing state chinese pandemic washington
+Topic #6:
+chinese government online tuesday did posted ministry statement state reports
+Topic #7:
+people virus 19 covid new wuhan disease city testing 000
+Topic #8:
+kim north taiwan korea korean south health reports australia media
+Topic #9:
+trump president world organization health donald funding washington united states
+
+--------------------
+May   :   
+Topic #0:
+beijing eu reporting chinese editing foreign writing states united ministry
+Topic #1:
+league euro chinese 2020 july meetings shanghai june events london
+Topic #2:
+pandemic 000 new people country according million month states year
+Topic #3:
+trump states united president donald washington house white new russia
+Topic #4:
+trump north korea president south india washington border senate military
+Topic #5:
+taiwan health world organization pandemic government meeting beijing states country
+Topic #6:
+chinese virus pompeo evidence wuhan outbreak people laboratory state trump
+Topic #7:
+cases new reported infections confirmed city health day number death
+Topic #8:
+covid 19 world vaccine virus pandemic health countries canada disease
+Topic #9:
+hong kong security national chinese meng people city canada legislation
+
+--------------------
+June   :   
+Topic #0:
+indian border india korea new soldiers cases troops military korean
+Topic #1:
+party united states washington trump media communist beijing foreign government
+Topic #2:
+trump president bolton washington house donald book national security white
+Topic #3:
+canada canadian huawei minister meng trudeau canadians michael prime kovrig
+Topic #4:
+hong kong security beijing national state united pompeo legislation law
+Topic #5:
+vaccine 19 pandemic covid june economic million based minister evidence
+Topic #6:
+coronavirus 19 covid health new cases beijing virus people city
+Topic #7:
+nuclear war talks beijing president arms island russia south defense
+Topic #8:
+united iran states eu european russia council security japan told
+Topic #9:
+cases reported asymptomatic covid australia overseas confirmed coronavirus commission 19
+
+--------------------
+July   :   
+Topic #0:
+beijing states united south sea reporting claims editing pompeo foreign
+Topic #1:
+states president united trump washington officials donald tuesday foreign told
+Topic #2:
+canada huawei government 5g security britain ottawa minister million company
+Topic #3:
+consulate beijing houston ministry chengdu close foreign friday states united
+Topic #4:
+hong kong law security new national beijing city british democracy
+Topic #5:
+india xinjiang tiktok indian trade washington region border officials including
+Topic #6:
+taiwan mars island military space taipei probe sea united mission
+Topic #7:
+coronavirus covid 19 cases health people reported new year pandemic
+Topic #8:
+states million according united coronavirus 000 june thursday country world
+Topic #9:
+nba hawley espn july support report friday players association games
+
+--------------------
+Augest   :   
+Topic #0:
+trump president trade donald deal biden phase tariffs policy democratic
+Topic #1:
+coronavirus covid new 19 vaccine world cases health united states
+Topic #2:
+south korea states united seoul japan beijing reporting war editing
+Topic #3:
+hong kong law lai security beijing national democracy city media
+Topic #4:
+sea south military states united beijing companies international department esper
+Topic #5:
+court canadian canada death ministry military statement states drug united
+Topic #6:
+meng li canada round party foreign sanctions huawei world pga
+Topic #7:
+taiwan azar visit taipei island minister beijing foreign health president
+Topic #8:
+fishing prix tuesday held vessels grand ecuador consulate event waters
+Topic #9:
+tiktok company trump government media app canada bytedance social new
+
+--------------------
+September   :   
+Topic #0:
+indian border tiktok troops india bytedance army new app western
+Topic #1:
+minister foreign gmt economic prime president secretary visit state new
+Topic #2:
+kong hong xinjiang rights region media mulan government police law
+Topic #3:
+taiwan taipei island beijing air force aircraft tsai taiwanese defense
+Topic #4:
+trump election washington united president states security american donald canada
+Topic #5:
+united states world nations iran president washington sanctions 19 nuclear
+Topic #6:
+australian australia court foreign journalists police government beijing investigation security
+Topic #7:
+coronavirus new people covid health 19 cases vaccine government pandemic
+Topic #8:
+beijing foreign ministry state reporting australian spokesman editing detained told
+Topic #9:
+year second tour korea international like world south just sea
+
+--------------------
+Octorber   :   
+Topic #0:
+vatican government chinese deal beijing state years national appointment security
+Topic #1:
+pompeo state united states korea north chinese indonesia sri lanka
+Topic #2:
+new year russian agreement india statement indian data russia sunday
+Topic #3:
+covid 19 health new vaccine cases coronavirus reported countries million
+Topic #4:
+french reach open seed year win quarter round paris fourth
+Topic #5:
+trump president election people pandemic biden states 000 coronavirus united
+Topic #6:
+minister pompeo japan foreign united south secretary meeting washington states
+Topic #7:
+taiwan beijing chinese ministry yang island foreign united defense states
+Topic #8:
+hong kong taiwan chinese year told security national air beijing
+Topic #9:
+chinese canada government canadian foreign committee ottawa security michael kovrig
+
+--------------------
+Novermber   :   
+Topic #0:
+need challenge chinese ensure america war canadians michael leaders meet
+Topic #1:
+biden president trump states election united joe donald minister washington
+Topic #2:
+japan chinese minister tokyo suga wang agreement australia foreign beijing
+Topic #3:
+hong kong beijing british new democracy security city national opposition
+Topic #4:
+chinese mission lunar moon force indian space india samples spacecraft
+Topic #5:
+cases new 19 covid reported health coronavirus world people day
+Topic #6:
+philippines study vietnam areas antibodies senator told united covid 19
+Topic #7:
+taiwan vaccine united states ministry state foreign health taipei chinese
+Topic #8:
+countries india britain cases debt commerce chinese highest world france
+Topic #9:
+canada canadian south korea chinese trudeau minister seoul korean huawei
+
+--------------------
+December   :   
+Topic #0:
+state pompeo cultural india countries programs reporting exchange editing secretary
+Topic #1:
+beijing united states ministry foreign officials reporting editing trade security
+Topic #2:
+president trump xi kong hong macau biden beijing donald taiwan
+Topic #3:
+hong kong police city year beijing government people protesters christmas
+Topic #4:
+biden people statement wednesday president sanctions wan including hunter united
+Topic #5:
+north korea united states korean kim year moon australia nuclear
+Topic #6:
+market billion business owned state ahead public 2016 firms includes
+Topic #7:
+vaccine covid 19 health million russia people coronavirus doses sinovac
+Topic #8:
+group rights company xinjiang uighur companies human north iran coronavirus
+Topic #9:
+minister canada michael canadian dec foreign meng prime day president
+
+--------------------
+
+
+Topic #0:
+vaccine million health government medical masks 000 countries help month
+Topic #1:
+chinese company companies government tiktok group technology letter owned firm
+Topic #2:
+quarantine flight passengers ship home board cruise airport citizens base
+Topic #3:
+cases new reported number infections confirmed health total deaths day
+Topic #4:
+states united beijing washington world consulate relations war countries economies
+Topic #5:
+sea south vietnam asia asian region military east southeast oil
+Topic #6:
+covid 19 pandemic people data research new university virus study
+Topic #7:
+trade billion deal year economic market chinese economy goods products
+Topic #8:
+wuhan virus city people health outbreak new chinese cases infected
+Topic #9:
+year 2020 march time scheduled event season events team 10
+Topic #10:
+open year final french france old paris round africa second
+Topic #11:
+britain london british huawei minister security reporting national editing johnson
+Topic #12:
+russia iran nuclear russian sanctions council united moscow security german
+Topic #13:
+european eu union brussels change climate commission europe video west
+Topic #14:
+decided middle sides results showed criticism pay cause handling highest
+Topic #15:
+canada canadian court ottawa meng canadians trudeau minister says michael
+Topic #16:
+border india indian troops games delhi military new chinese tour
+Topic #17:
+reporting editing beijing chinese ministry foreign spokesman writing told wang
+Topic #18:
+hong kong security law beijing city democracy national police chinese
+Topic #19:
+state pompeo secretary department washington mike united chinese states beijing
+Topic #20:
+trump president donald administration biden washington states united pandemic election
+Topic #21:
+human world rights international organization xinjiang nations report geneva forced
+Topic #22:
+korea south north korean seoul kim leader year missile officials
+Topic #23:
+travel flights government ban restrictions singapore citizens countries country minister
+Topic #24:
+world outbreak health spread global people virus pandemic countries epidemic
+Topic #25:
+party president xi government election country jinping communist leader state
+Topic #26:
+white house security national told think threat american adviser don
+Topic #27:
+minister japan foreign tokyo prime visit meeting economic new president
+Topic #28:
+taiwan island taipei chinese force military beijing tsai defense air
+Topic #29:
+chinese media australia australian comment did reuters beijing immediately official
+
+--------------------

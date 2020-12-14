@@ -1,0 +1,138 @@
+中立情感有 : 2712篇
+消极情感有 : 32篇
+积极情感有 : 790篇
+
+[194, 217, 156, 142, 422, 405, 371, 371, 380, 408, 317, 153]
+
+January   :   
+Topic #0:
+health virus wuhan outbreak cases coronavirus sars public canada city
+Topic #1:
+company cent security companies huawei million technology tsx market canada
+Topic #2:
+trade canada beijing trump hong kong country president meng united
+
+--------------------
+ Fabruary   :   
+Topic #0:
+company cent billion market business companies global million economy impact
+Topic #1:
+government canada canadian public home says like canadians toronto iran
+Topic #2:
+cases wuhan officials government city beijing reported disease hong kong
+
+--------------------
+Match   :   
+Topic #0:
+cases covid home reported trump state confirmed says italy officials
+Topic #1:
+canada million says report covid canadian cent including company federal
+Topic #2:
+markets cent market just going economy investors global lot think
+
+--------------------
+April   :   
+Topic #0:
+asian kong canada police canadians public hong canadian report anti
+Topic #1:
+cases cent deaths says 000 home province care reported sales
+Topic #2:
+medical workers global masks wuhan hospital countries disease work agency
+
+--------------------
+May   :   
+Topic #0:
+virus like health masks just state home public make work
+Topic #1:
+trump hong kong cent canada president beijing international security united
+Topic #2:
+cases health province says deaths reported ontario 000 day testing
+
+--------------------
+June   :   
+Topic #0:
+india indian south military countries korea foreign officials border beijing
+Topic #1:
+cases 19 covid health reported virus day says deaths province
+Topic #2:
+hong kong trump law security national canada beijing united foreign
+
+--------------------
+July   :   
+Topic #0:
+trump president canada biden huawei officials united states administration american
+Topic #1:
+cases covid 19 health coronavirus reported virus says deaths confirmed
+Topic #2:
+hong kong law security beijing foreign india national police indian
+
+--------------------
+Augest   :   
+Topic #0:
+cases 19 health covid reported says deaths pandemic virus province
+Topic #1:
+hong kong foreign beijing security canada law trump huawei taiwan
+Topic #2:
+trump tiktok company companies like pandemic billion trade app market
+
+--------------------
+September   :   
+Topic #0:
+trump tiktok company million business cent oracle app deal companies
+Topic #1:
+covid 19 cases health coronavirus canada says virus trump vaccine
+Topic #2:
+taiwan countries world united foreign beijing trump international military security
+
+--------------------
+Octorber   :   
+Topic #0:
+cancelled postponed march june april cup spectators aug july vs
+Topic #1:
+covid 19 health cases coronavirus virus vaccine says public trump
+Topic #2:
+trump president biden state states canada election hong kong years
+
+--------------------
+Novermber   :   
+Topic #0:
+trump biden president election canada state states years canadian security
+Topic #1:
+cancelled postponed march april june cup spectators oct aug july
+Topic #2:
+cases covid 19 health coronavirus says public million virus including
+
+--------------------
+December   :   
+Topic #0:
+hong kong like canada cent beijing law world police international
+Topic #1:
+cases covid vaccine 19 health says deaths seven tuesday reported
+Topic #2:
+test companies president biden health virus trump national jan according
+
+--------------------
+
+
+
+Total  ：
+Topic #0:
+cases virus health reported outbreak city 000 confirmed deaths officials
+Topic #1:
+united security countries states companies company trump tiktok state iran
+Topic #2:
+india south taiwan military beijing foreign japan korea minister indian
+Topic #3:
+season team games 2020 com open players film french france
+Topic #4:
+trump president biden election house donald white state campaign administration
+Topic #5:
+covid 19 health says cases vaccine province canada pandemic ontario
+Topic #6:
+like just years don home work going think long make
+Topic #7:
+cent billion million company market economy trade companies sales markets
+Topic #8:
+cancelled postponed march april june cup spectators aug oct july
+Topic #9:
+hong kong canada law canadian beijing security police national meng
